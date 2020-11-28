@@ -18,3 +18,4 @@ This backup can be executed automatically by a scheduling system \(_cron_ proces
 
 If you do not have access to a terminal, it is possible you might need to execute a backup copy through _FTP_. This operation, however \(without compression\), can be **much** longer.
 
+*note* backup only course / template / theme dirs for example ? ask.
