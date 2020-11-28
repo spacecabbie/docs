@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Documentation for Chamilo LMS](README.md)
+* [Initial page](README.md)
 
